@@ -1,5 +1,5 @@
 #avoid generated and instlled files#
 #node_modules
-deploy
-*.html
-*.pdf
+#deploy
+#*.html
+#*.pdf
