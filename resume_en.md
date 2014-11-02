@@ -53,7 +53,7 @@
 **Bachelor (Software Engineering)** __2010 to 2014__
 	Harbin Institute of Technology
 
-**Master (Software Engineering)** __2010 to 2014__
+**Master (Software Engineering)** __2014 to 2016__
 	Harbin Institute of Technology
 	
 	
