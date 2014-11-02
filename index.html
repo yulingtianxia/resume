@@ -49,6 +49,14 @@
             <!-- darren code -->
             <div id="overview" class="step" data-x="-200" data-y="-500" data-scale="3"></div>
         </div>
+        <div class="hint">
+            <p>使用空格或方向键继续</p>
+        </div>
+        <script>
+        if ("ontouchstart" in document.documentElement) {
+            document.querySelector(".hint").innerHTML = "<p>在左侧或右侧点击继续</p>";
+        }
+        </script>
         <script src="http://bartaz.github.com/impress.js/js/impress.js"></script>
         <script>impress().init();</script>
         <script>
