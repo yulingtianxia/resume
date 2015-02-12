@@ -11,12 +11,12 @@
 
 1. Android / iOS
 1. Git / SVN
+1. C / C++
 1. JavaEE / Asp.Net
 1. Oracle / MySQL 
-1. Javascript
+1. Algorithm
 1. Prezi
 1. Sketch
-1. FCPX
 1. Latex
 
 ------
