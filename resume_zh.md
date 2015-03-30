@@ -9,15 +9,15 @@
 
 ### Technical & Skill
 
-1. Android / iOS
-1. Git / SVN
-1. C / C++
-1. JavaEE / Asp.Net
-1. Oracle / MySQL 
+1. **iOS** / Android
+1. **Git / SVN**
+1. **C++** / C
 1. Algorithm
-1. Prezi
-1. Sketch
-1. Latex
+1. Vim / ST
+1. **Sketch**
+1. **Markdown** / Latex
+1. **JavaEE** / Asp.Net
+1. Oracle / MySQL 
 
 ------
 
@@ -27,11 +27,15 @@
 	微软亚洲研究院云加速部门。参与万达U乐汇iOS版本APP开发和Android版本sdk的开发。
 
 **东软集团基地实训** __2012.07-2012.08__
-	汽车导航系统。主要负责车载导航软件客户端界面的设计，功能的策划和设计，部分数据结构的编写。
+	PC端模拟汽车导航系统。主要负责车载导航软件客户端界面的设计，功能的策划和设计，部分数据结构的编写。
 
+**中软国际实训** __2015.01-2015.02__
+	驴友社交APP，Android端IM类产品。  
+	
 ------
 
 ### Honor
+
 **第一届大学生移动应用软件设计大赛“青春中国梦-百度杯”Hackathon比赛 最佳创意奖**  
 *百度&教育部*  __2013 年 10 月__  
 
@@ -76,35 +80,36 @@
 
 ------
 
-### Projects
-
-* **畅游**
-	<a href=http://changyou.yulingtianxia.com class=not-printed>changyou.yulingtianxia.com</a>
-	安卓端导航项目，利用增强现实技术（AR）给用户更好的体验，曾荣获多项大奖。
+### Individual Work
 
 * **ColorAtom**
 	<a href=http://coloratom.yulingtianxia.com class=not-printed>coloratom.yulingtianxia.com</a>
-	iOS平台游戏，已在AppStore上架：[下载地址](https://itunes.apple.com/us/app/coloratom/id918469696?mt=8)
+	iOS平台关于正能量的小游戏，采用SpriteKit游戏引擎。想办法使用手中的正能量击溃来袭的负能量吧！每次成功击退都意味着你将收集到更多的正能量！虫洞模式更有神秘引力场等着你！支持双人在线对战模式，已在AppStore上架：[下载地址](https://itunes.apple.com/us/app/coloratom/id918469696?mt=8)
 
 * **Square Spiral**
 	<a href=http://spiral.yulingtianxia.com class=not-printed>spiral.yulingtianxia.com</a>
-	iOS平台游戏，Swift编写，已在AppStore上架。
+	iOS平台益智小游戏，采用SpriteKit游戏引擎，Swift编写。玩家需要操控一个五角星，躲避红色带刺的杀手、捕获绿色的多肉植物还有紫色的魔法护盾。更多玩法和彩蛋待发掘，快把战绩分享到你的朋友圈吧，已在AppStore上架：[下载地址](https://itunes.apple.com/us/app/square-spiral/id920811081?l=zh&ls=1&mt=8)  
 
-* **热网计费系统 & 热网管控一体化项目**
-	两个实验室的项目。热网计费系统用于计量冬天暖气的供热热量情况，并实现根据面积和热量对用户进行计费、收费等一条龙服务。采用Struts2架构实现后台，前台在HTML基础上用jquery进行美化。前后台用json来传数据。负责少量的后台编写，服务器串口收发数据模块的编写，数据的解析和封装。热网管控一体化项目主要参与了水力平衡模块的开发，从事dll链接库算法的编写和数据库设计，还有部分JavaEE后台代码的编写。
-
-* **万达U乐汇**
-	参与万达U乐汇iOS版本APP开发和Android版本sdk的开发。它是仿照ibeacon室内定位和支付技术而开发的针对万达广场的APP，2014年春节在福州仓山万达进行上线。
-
-* **中国银行黑龙江省分行商品房预售资金监管系统**
-	为了赶在“金九银十”的售房佳绩而开发的银行系统的子模块，主要用到了Web Service技术来实现省分行和房产监管局的数据交换。主要由缴款、退房、拨付和冲正四个模块，业务逻辑和贷款买房等相关操作相符合。 完成了此项目的大部分后台代码，并制定数据传输标准等。
-
-<!--* **HardChoice**
+* **HardChoice**
 	<a href=http://hardchoice.yulingtianxia.com class=not-printed>hardchoice.yulingtianxia.com</a>
-	iOS平台生活类应用,Swift编写，已在AppStore上架。-->
-  
+	iOS创意Demo，用于帮你抽签做决定。生活中会遇到很多抉择，比如今天中午吃啥？今天谁去买饭？面对着种种疑问，我们可以先把备选答案以及期望的权值写下来，摇一摇手机就能知道答案！支持系统字体和数据云同步，纯Swift编写，已在AppStore上架：[下载地址](https://itunes.apple.com/us/app/hardchoice/id923977271?l=zh&ls=1&mt=8)
 
 ------
+
+###Team Project
+
+* **万达U乐汇**
+	参与万达U乐汇iOS版本APP开发和Android版本sdk的开发。它是仿照iBeacon室内定位和支付技术而开发的针对万达广场的APP，2014年春节在福州仓山万达进行上线。在Sensoro公司实习期间，我参与了该APP界面的绘制和业务逻辑的实现，并完成这部分内容一半的工作量。  
+
+* **畅游**
+	<a href=http://changyou.yulingtianxia.com class=not-printed>changyou.yulingtianxia.com</a>
+	安卓端LBS应用，利用增强现实技术（AR）给用户更好的体验，曾获多项竞赛奖项。个人完成了90%项目代码和全部服务器后台代码。服务器后台采用BAE云服务和云数据库，SSH架构。安卓端集成了Wikitude的AR技术实现摄像头实景导航。  
+
+* **热网计费系统 & 热网管控一体化项目 & 中国银行黑龙江省分行商品房预售资金监管系统**
+	三个实验室的项目。热网计费系统用于计量冬天暖气的供热热量情况，并实现根据面积和热量对用户进行计费、收费等一条龙服务。我负责少量的后台编写，服务器串口收发数据模块的编写，数据的解析和封装。热网管控一体化项目主要参与了水力平衡模块的开发，从事dll链接库算法的编写和数据库设计，还有部分JavaEE后台代码的编写。商品房预售资金监管系统主要用到了Web Service技术来实现省分行和房产监管局的数据交换。主要由缴款、退房、拨付和冲正四个模块，业务逻辑和贷款买房等相关操作相符合。 我完成了此项目的大部分后台代码，并制定数据传输标准等。  
+	  
+------
+
 ###Language
 
 **CET4** *522*  
@@ -125,7 +130,17 @@
 	哈尔滨工业大学软件学院
 
 **硕士(软件工程)** __2014 to 2016__
-	哈尔滨工业大学软件学院
+	哈尔滨工业大学软件学院(保研)
+
+------
+
+### More Information  
+
+* **GitHub:** [yulingtianxia](https://github.com/yulingtianxia)  
+
+* **Resume Online:** [自我介绍](http://resume.yulingtianxia.com)  
+
+* **Blog:** [yulingtianxia's blog](http://yulingtianxia.com)  
 
 
 <script>
