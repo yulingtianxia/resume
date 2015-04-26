@@ -92,7 +92,7 @@
 
 * **HardChoice**
 	<a href=http://hardchoice.yulingtianxia.com class=not-printed>hardchoice.yulingtianxia.com</a>
-	iOS创意Demo，用于帮你抽签做决定。生活中会遇到很多抉择，比如今天中午吃啥？今天谁去买饭？面对着种种疑问，我们可以先把备选答案以及期望的权值写下来，摇一摇手机就能知道答案！支持系统字体和数据云同步，纯Swift编写，已在AppStore上架：[下载地址](https://itunes.apple.com/us/app/hardchoice/id923977271?l=zh&ls=1&mt=8)
+	iOS创意Demo，用于帮你抽签做决定。生活中会遇到很多抉择，比如今天中午吃啥？今天谁去买饭？面对着种种疑问，我们可以先把备选答案以及期望的权值写下来，摇一摇手机就能知道答案！支持系统字体和数据云同步，纯Swift编写，支持Watch，已在AppStore上架：[下载地址](https://itunes.apple.com/us/app/hardchoice/id923977271?l=zh&ls=1&mt=8)
 
 ------
 
