@@ -23,17 +23,14 @@
 
 ### Experience
 
-**阿里巴巴实习生** *Alipay* __2015.6-至今__
-	蚂蚁金服-安全&服务及数据事业群-安全产品技术部-国内安全技术部-生物识别和终端安全，客户端开发工程师。
+**腾讯实习生** *SNG* __2015.10-至今__
+	腾讯 SNG 即通应用部无线应用中心 iOS 开发。
+
+**阿里巴巴实习生** *Alipay* __2015.6-2015.9__
+	蚂蚁金服-安全&服务及数据事业群-安全产品技术部-国内安全技术部-生物识别和终端安全，客户端开发工程师。参与人脸识别3.0和支付宝9.2人脸登陆模块 iOS 端的开发.负责眼纹识别 iOS 和 Android 端 Demo 的开发.
 	
 **Sensoro实习生** *Sensoro* __2013.11-2013.12__
 	微软亚洲研究院云加速部门。参与万达U乐汇iOS版本APP开发和Android版本sdk的开发。
-
-**东软集团基地实训** __2012.07-2012.08__
-	PC端模拟汽车导航系统。主要负责车载导航软件客户端界面的设计，功能的策划和设计，部分数据结构的编写。
-
-**中软国际实训** __2015.01-2015.02__
-	驴友社交APP，Android端IM类产品。  
 	
 ------
 
@@ -91,11 +88,11 @@
 
 * **Square Spiral**
 	<a href=http://spiral.yulingtianxia.com class=not-printed>spiral.yulingtianxia.com</a>
-	iOS平台益智小游戏，采用SpriteKit游戏引擎，Swift编写。玩家需要操控一个五角星，躲避红色带刺的杀手、捕获绿色的多肉植物还有紫色的魔法护盾。更多玩法和彩蛋待发掘，快把战绩分享到你的朋友圈吧，已在AppStore上架：[下载地址](https://itunes.apple.com/us/app/square-spiral/id920811081?l=zh&ls=1&mt=8)  
+	iOS平台益智小游戏，采用SpriteKit游戏引擎，Swift 2.0编写。玩家需要操控一个五角星，躲避红色带刺的杀手、捕获绿色的多肉植物还有紫色的魔法护盾来获得分数。可以录制游戏并分享战绩，有多种游戏模式可供选择。已在AppStore上架：[下载地址](https://itunes.apple.com/us/app/square-spiral/id920811081?l=zh&ls=1&mt=8)  
 
 * **HardChoice**
 	<a href=http://hardchoice.yulingtianxia.com class=not-printed>hardchoice.yulingtianxia.com</a>
-	iOS创意Demo，用于帮你抽签做决定。生活中会遇到很多抉择，比如今天中午吃啥？今天谁去买饭？面对着种种疑问，我们可以先把备选答案以及期望的权值写下来，摇一摇手机就能知道答案！支持系统字体和数据云同步，纯Swift编写，支持Watch，已在AppStore上架：[下载地址](https://itunes.apple.com/us/app/hardchoice/id923977271?l=zh&ls=1&mt=8)
+	iOS创意App，用于帮你抽签做决定。生活中会遇到很多抉择，比如今天中午吃啥？今天谁去买饭？面对着种种疑问，我们可以先把备选答案以及期望的权值写下来，摇一摇手机就能知道答案！支持系统字体和数据iCloud同步，纯Swift编写，支持Watch，已在AppStore上架：[下载地址](https://itunes.apple.com/us/app/hardchoice/id923977271?l=zh&ls=1&mt=8)
 
 ------
 
