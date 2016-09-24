@@ -23,7 +23,12 @@
 
 ### Experience
 
-**Alibaba Internship** *Alipay* __2015.6-now__
+**Tencent Internship** *SNG* __2016.7-now__
+
+**Tencent Internship** *SNG* __2015.6-2016.5__
+	I join the FaceDetect Framework team and develop iOS Framework for Alipay App. People can login Alipay with there faces by using our technology.
+
+**Alibaba Internship** *Alipay* __2015.6-2015.9__
 	I join the FaceDetect Framework team and develop iOS Framework for Alipay App. People can login Alipay with there faces by using our technology.
 
 **Sensoro Internship** __2013.11.29-2013.12.27__
