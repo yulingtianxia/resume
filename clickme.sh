@@ -1,5 +1,5 @@
 #!/bin/sh
-cd ~/Documents/Code/resume/
+cd ~/Code/resume/
 mkdir deploy
 node node_modules/markdown-resume/bin/md2resume resume_zh.md
 node node_modules/markdown-resume/bin/md2resume resume_en.md
