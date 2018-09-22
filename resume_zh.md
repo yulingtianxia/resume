@@ -38,12 +38,14 @@
 
 ### Open Source Project
 
-* [**TBUIAutoTest**](https://github.com/yulingtianxia/TBUIAutoTest) : iOS 自动化测试 UI 标签生成器。QQ、NOW 直播、兴趣部落、今日头条等 App 在使用。阿里自动化测试框架 Macaca [引用并致谢](https://github.com/macacajs/iosHookViewId)。
-* [**TBActionSheet**](https://github.com/yulingtianxia/TBActionSheet) : 功能强大可高度定制化的 iOS ActionSheet 组件。兴趣部落等 500+ App 在使用。
-* [**BlockHook**](https://github.com/yulingtianxia/BlockHook) : Objective-C 首个针对 Block 进行 Hook 的开源通用解决方案。
-* [**MessageThrottle**](https://github.com/yulingtianxia/MessageThrottle) : Objective-C 方法限频组件，不侵入业务代码、高性能、一行代码集成。QQ、抖音等 App  正在使用。
-* [**pbxprojHelper**](https://github.com/yulingtianxia/pbxprojHelper) : Xcode 工程文件配置工具，提升开发效率。
-* [**FishChat**](https://github.com/yulingtianxia/FishChat) : 利用逆向工程实现微信防撤回、屏蔽消息、去红点和动态入口、夜间模式等功能。
+- [**TBUIAutoTest**](https://github.com/yulingtianxia/TBUIAutoTest): iOS 自动化测试 UI 标签生成器。QQ、NOW 直播、兴趣部落、今日头条等 App 在使用。阿里自动化测试框架 [Macaca 引用并致谢](https://github.com/macacajs/iosHookViewId)。
+- [**TBActionSheet**](https://github.com/yulingtianxia/TBActionSheet): 功能强大可高度定制化的 iOS ActionSheet 组件。兴趣部落等 500+ App 在使用。
+- [**BlockHook**](https://github.com/yulingtianxia/BlockHook): Objective-C 首个针对 Block 进行 Hook 的开源通用解决方案。
+- [**MessageThrottle**](https://github.com/yulingtianxia/MessageThrottle): Objective-C 方法限频组件，不侵入业务代码、高性能、一行代码集成。QQ、抖音等 App  正在使用。
+- [**pbxprojHelper**](https://github.com/yulingtianxia/pbxprojHelper): Xcode 工程文件配置工具，提升开发效率。
+- [**FishChat**](https://github.com/yulingtianxia/FishChat): 利用逆向工程实现微信防撤回、屏蔽消息、去红点和动态入口、夜间模式等功能。
+    
+------
 
 ### Education
 
@@ -61,15 +63,15 @@
 
 * **ColorAtom**
 	<a href=http://coloratom.yulingtianxia.com class=not-printed>coloratom.yulingtianxia.com</a>
-	iOS平台关于正能量的小游戏，采用SpriteKit游戏引擎。[下载地址](https://itunes.apple.com/us/app/coloratom/id918469696?mt=8)
+	iOS平台关于正能量的小游戏，采用SpriteKit游戏引擎。[点击下载](https://itunes.apple.com/us/app/coloratom/id918469696?mt=8)
 
 * **Square Spiral**
 	<a href=http://spiral.yulingtianxia.com class=not-printed>spiral.yulingtianxia.com</a>
-	iOS平台益智小游戏，采用SpriteKit游戏引擎，Swift 编写。[下载地址](https://itunes.apple.com/us/app/square-spiral/id920811081?l=zh&ls=1&mt=8)  
+	iOS平台益智小游戏，采用SpriteKit游戏引擎，Swift 编写。[点击下载](https://itunes.apple.com/us/app/square-spiral/id920811081?l=zh&ls=1&mt=8)  
 
 * **HardChoice**
 	<a href=http://hardchoice.yulingtianxia.com class=not-printed>hardchoice.yulingtianxia.com</a>
-	iOS创意App，用于帮你抽签做决定。纯Swift编写，支持Watch。[下载地址](https://itunes.apple.com/us/app/hardchoice/id923977271?l=zh&ls=1&mt=8)
+	iOS创意App，用于帮你抽签做决定。纯Swift编写，支持Watch。[点击下载](https://itunes.apple.com/us/app/hardchoice/id923977271?l=zh&ls=1&mt=8)
 
 ------
 
